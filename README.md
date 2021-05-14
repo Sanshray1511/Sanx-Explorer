@@ -1,2 +1,2 @@
 # Sanx-Explorer
-This is a Tabbed Explorer made in Visual Basic
+This is my Tabbed Explorer made in Visual Basic.
